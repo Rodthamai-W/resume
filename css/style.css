@@ -1,0 +1,57 @@
+h1{
+font-family: 'Kanit', sans-serif;
+}
+h4{
+font-family: 'Kanit', sans-serif;
+}
+h5{
+font-family: 'Kanit', sans-serif;
+}
+p{
+   font-family: 'Bai Jamjuree', sans-serif;
+}
+
+.mt-0 {
+  margin-top: 0 !important;
+}
+
+.my-name{
+  text-transform: uppercase;
+  font-size: 70px;
+  line-height: 60px;
+}
+
+
+h1{
+  color: #554528 ;
+}
+
+h4{
+  color: #554528 ;
+}
+
+.my-avatar{
+   border-radius: 50%;
+}
+
+* {box-sizing: border-box}
+.container {
+  width: 100%;
+  background-color: #FFFDF7;
+}
+
+.skills {
+  text-align: right;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  color: white;
+}
+
+.html {width: 90%; background-color: #77AD92 ;}
+.css {width: 60%; background-color: #77AD92 ;}
+.js {width: 80%; background-color: #77AD92 ;}
+.php {width: 55%; background-color: #77AD92 ;}
+
+.my-bg{
+  background-color: #EDEDED;
+}
