@@ -62,7 +62,7 @@
         </nav>
       </div>
       <div class="row">
-        <div class="col-xs-12 col-md-6"> <img src="images/Me2.PNG" class="img-fluid"
+        <div class="col-xs-12 col-md-6"> <img src="images/me2.PNG" class="img-fluid"
 
             alt="wanatchaporn" style="width: 452px; height: 537px;"> <br>
         </div>
@@ -78,7 +78,8 @@
           <p> ชื่อ &nbsp; วนัชพร รอดท่าไม้ <br>
             ชื่อเล่น &nbsp; ชมพู่ <br>
             อายุ &nbsp; 21 ปี <br>
-            สัญชาติ &nbsp; ไทย </p>
+            สัญชาติ &nbsp; ไทย <br>
+          อักษรศาสตร์ ชั้นปีที่ 3 รหัสนักศึกษา 640510201</p>
         </div>
       </div>
       <br>
@@ -140,13 +141,13 @@
         <br>
         <div class="row">
           <h4> My Works </h4>
-          <div class="col-xs-6 col-md-3"><img src="images/Aranara.JPG" class="img-fluid"
+          <div class="col-xs-6 col-md-3"><img src="images/aranara.JPG" class="img-fluid"
 
               alt="work1"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/Unfinishedglassgirl.JPG"
+          <div class="col-xs-6 col-md-3"><img src="images/unfinishedglassgirl.JPG"
 
               class="img-fluid" alt="work2"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/Dog.JPG" class="img-fluid"
+          <div class="col-xs-6 col-md-3"><img src="images/dog.JPG" class="img-fluid"
 
               alt="work3"></div>
           <div class="col-xs-6 col-md-3"><img src="images/uniwork2.JPG" class="img-fluid"
@@ -154,16 +155,16 @@
               alt="work4"></div>
         </div>
         <div class="row">
-          <div class="col-xs-6 col-md-3"><img src="images/Bin.JPG" class="img-fluid"
+          <div class="col-xs-6 col-md-3"><img src="images/bin.JPG" class="img-fluid"
 
               alt="work5"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/Trash.JPG" class="img-fluid"
+          <div class="col-xs-6 col-md-3"><img src="images/trash.JPG" class="img-fluid"
 
               alt="work6"></div>
           <div class="col-xs-6 col-md-3"><img src="images/203.JPG" class="img-fluid"
 
               alt="work7"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/Eng2.JPG" class="img-fluid"
+          <div class="col-xs-6 col-md-3"><img src="images/end2.JPG" class="img-fluid"
 
               alt="work8"></div>
         </div> <br>
