@@ -1,18 +1,15 @@
 <!DOCTYPE html>
-<html>
+<html lang="">
   <head>
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
-
-      rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
-
+    <title>Wanatchaporn Rodthamai's Resume</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css"
+      rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9"
       crossorigin="anonymous">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
-    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree&amp;family=Kanit:wght@500&amp;display=swap"
-
+    <link href="https://fonts.googleapis.com/css2?family=Bai+Jamjuree&amp;family=Kanit:wght@500&amp;display=swap"
       rel="stylesheet">
     <link type="text/css" rel="stylesheet" href="css/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -34,27 +31,27 @@
 .css {width: 60%; background-color: #77AD92 ;}
 .js {width: 80%; background-color: #77AD92 ;}
 .php {width: 55%; background-color: #77AD92 ;}</style>
+    <meta name="description" content="Resume ของ Wanatchaporn Rodthamai (วนัชพร รอดท่าไม้)">
+    <meta name="keywords" content="Wanatchaporn Rodthamai, วนัชพร รอดท่าไม้, Wanatchaporn, วนัชพร">
+    <meta name="author" content="Wanatchaporn Rodthamai">
   </head>
   <body>
     <div class="container">
       <div class="row">
         <nav class="navbar navbar-expand-lg bg-body-tertiary">
-          <div class="container-fluid"> <a class="navbar-brand" href="#"></a> <button
-
-              class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
-
+          <div class="container-fluid"> <a class="navbar-brand" href="#"></a> <button
+              class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
               aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span> </button>
             <div class="collapse navbar-collapse" id="navbarNav">
               <ul class="navbar-nav">
-                <li class="nav-item"> <a class="nav-link active" aria-current="page"
-
-                    href="#">Home</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#">About me</a>
-                </li>
-                <li class="nav-item"> <a class="nav-link" href="https://drive.google.com/drive/folders/1pncrh7XaYl3I3xTifmvG1xujK9e1Is-_?usp=sharing">My
+                <li class="nav-item"> <a class="nav-link active" aria-current="page"
+                    href="index.html">Home</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="##profile">About
+                    me</a> </li>
+                <li class="nav-item"> <a class="nav-link" href="##works">My
                     Works</a> </li>
-                <li class="nav-item"> <a class="nav-link" href="#Contacts">Contacts</a>
+                <li class="nav-item"> <a class="nav-link" href="##contact">contacts</a>
                 </li>
               </ul>
             </div>
@@ -62,8 +59,7 @@
         </nav>
       </div>
       <div class="row">
-        <div class="col-xs-12 col-md-6"> <img src="images/me2.PNG" class="img-fluid"
-
+        <div class="col-xs-12 col-md-6"> <img src="images/Me2.PNG" class="img-fluid"
             alt="wanatchaporn" style="width: 452px; height: 537px;"> <br>
         </div>
         <div class="col-xs-12 col-md-6 "> <br>
@@ -71,15 +67,14 @@
             Wanatchaporn <br>
             Rodthamai </h1>
           <br>
-          <h5> มีความกระตือรือร้นที่จะเรียนรู้การทำการในรูปแบบต่าง ๆ
-            มีความบผิดชอบ และต้องการที่จะพัฒนาตนเอง </h5>
+          <p> มีความกระตือรือร้นที่จะเรียนรู้การทำการในรูปแบบต่าง ๆ
+            มีความรับผิดชอบ และต้องการที่จะพัฒนาตนเอง </p>
           <br>
-          <h4> Profile </h4>
+          <h4> <a name="#profile" id="#profile"></a>Profile </h4>
           <p> ชื่อ &nbsp; วนัชพร รอดท่าไม้ <br>
             ชื่อเล่น &nbsp; ชมพู่ <br>
             อายุ &nbsp; 21 ปี <br>
-            สัญชาติ &nbsp; ไทย <br>
-            อักษรศาสตร์ ชั้นปีที่ 3 รหัสนักศึกษา 640510201</p>
+            สัญชาติ &nbsp; ไทย </p>
         </div>
       </div>
       <br>
@@ -104,20 +99,93 @@
       <div class="row">
         <div class="col-xs-12 col-md-6">
           <h4> Skillls </h4>
-          <p> - Microsoft Office <br>
-            Word อยู่ในระดับที่ดีมาก สามารถทำงาเอกสาร จัดหน้ารายการ จัดทำ
-            ใบประกาศนียบัตร <br>
-            Excel อยู่ในระดับที่ดีมาก
-            สามรถจัดทำตารางเปรียบเทียบราคาของพร้อมคำนวณส่วนต่าง และคำนวณเกรดได้
-            <br>
-            Power Point อยู่ในระดับที่ดีมาก สามารถจัดทำสไลด์ให้มีความน่าสนใจ
-            สามารถจัดทำสื่อการเรียนรู้ง่ายๆ และสร้างเกมง่ายๆ &nbsp;
-            สำหรับเด็กจาก Power Point ได้ <br>
-            - Photoshop อยู่ในระดับที่ดี สามารถตัดต่อรูปตามที่ได้รับมาได้ <br>
-            - Procreate, ibisPaint อยู่ในระดับที่ดีมาก
-            สามารถใข้เครื่องมือในแอปพลิเคชั่นวาดรู ตัดต่อรูป ทำโปสเตอร์ gif
-            สั้นๆ ฯลฯ <br>
-            - เขียนเว็บภาษา HTML ร่วมกับ BOOTSTRAPS และ CSS โดยใช้ BlueGriffon </p>
+          <div class="row">
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne"
+                    aria-expanded="false" aria-controls="flush-collapseOne">
+                    Microsoft Office </button> </h2>
+                <div id="flush-collapseOne" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p> <strong>อยู่ในระดับที่ดีมาก </strong><br>
+                      สามารถทำงานเอกสาร จัดหน้ารายการ จัดทำใบประกาศนียบัตร</p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo"
+                    aria-expanded="false" aria-controls="flush-collapseTwo">
+                    Excel </button> </h2>
+                <div id="flush-collapseTwo" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p><strong>อยู่ในระดับที่ดีมาก</strong> <br>
+                      สามารถจัดทำตารางเปรียบเทียบราคาของพร้อมคำนวณส่วนต่าง
+                      และคำนวณเกรดได้ </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree"
+                    aria-expanded="false" aria-controls="flush-collapseThree">
+                    Power Point </button> </h2>
+                <div id="flush-collapseThree" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p><strong>อยู่ในระดับที่ดีมาก</strong> <br>
+                      สามารถจัดทำสไลด์ให้มีความน่าสนใจ
+                      สามารถจัดทำสื่อการเรียนรู้ง่ายๆ และสร้างเกมง่ายๆ
+                      สำหรับเด็กจาก Power Point ได้ </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour"
+                    aria-expanded="false" aria-controls="flush-collapseFour">
+                    Photoshop </button> </h2>
+                <div id="flush-collapseFour" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p><strong>อยู่ในระดับที่ดี</strong> <br>
+                      สามารถตัดต่อรูปตามที่ได้รับมาได้ </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFive"
+                    aria-expanded="false" aria-controls="flush-collapseFive">
+                    Procreate and ibisPaint </button> </h2>
+                <div id="flush-collapseFive" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p><strong>อยู่ในระดับที่ดีมาก</strong> <br>
+                      สามารถใข้เครื่องมือในแอปพลิเคชั่นวาดรูป ตัดต่อรูป
+                      ทำโปสเตอร์ gif สั้นๆ ฯลฯ </p>
+                  </div>
+                </div>
+              </div>
+              <div class="accordion-item">
+                <h2 class="accordion-header"> <button class="accordion-button collapsed"
+                    type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseSix"
+                    aria-expanded="false" aria-controls="flush-collapseSix">
+                    BlueGriffon </button> </h2>
+                <div id="flush-collapseSix" class="accordion-collapse collapse"
+                  data-bs-parent="#accordionFlushExample">
+                  <div class="accordion-body">
+                    <p> <strong>อยู่ในระดับที่ดีมาก</strong> <br>
+                      เขียนเว็บภาษา HTML ร่วมกับ BOOTSTRAPS, CSS และ JAVASCRIPT
+                      โดยใช้ BlueGriffon </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
         <div class="col-xs-12 col-md-6">
           <p>Microsoft Office</p>
@@ -138,38 +206,51 @@
           </div>
         </div>
         <br>
-        <div class="row">
-          <h4> My Works </h4>
-          <div class="col-xs-6 col-md-3"><img src="images/aranara.JPG" class="img-fluid"
-
-              alt="work1"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/unfinishedglassgirl.JPG"
-
-              class="img-fluid" alt="work2"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/dog.JPG" class="img-fluid"
-
-              alt="work3"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/uniwork2.JPG" class="img-fluid"
-
-              alt="work4"></div>
+        <div class="row pt-5 text-center">
+          <h4> <a name="#works" id="#works"></a>My Works </h4>
         </div>
-        <div class="row">
-          <div class="col-xs-6 col-md-3"><img src="images/bin.JPG" class="img-fluid"
-
-              alt="work5"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/trash.JPG" class="img-fluid"
-
-              alt="work6"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/203.JPG" class="img-fluid"
-
-              alt="work7"></div>
-          <div class="col-xs-6 col-md-3"><img src="images/end2.JPG" class="img-fluid"
-
-              alt="work8"></div>
+        <div class="row mx-auto pt-2" style="width: 500px">
+          <div id="carouselExampleIndicators" class="carousel slide">
+            <div class="carousel-indicators"> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+              <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="1" aria-label="Slide 2"></button> <button type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2"
+                aria-label="Slide 3"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="3" aria-label="Slide 4"></button> <button type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4"
+                aria-label="Slide 5"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="5" aria-label="Slide 6"></button> <button type="button"
+                data-bs-target="#carouselExampleIndicators" data-bs-slide-to="6"
+                aria-label="Slide 7"></button> <button type="button" data-bs-target="#carouselExampleIndicators"
+                data-bs-slide-to="7" aria-label="Slide 8"></button> </div>
+            <div class="carousel-inner">
+              <div class="carousel-item active"> <img src="images/Aranara.JPG"
+                  class="d-block w-100" alt="work1"> </div>
+              <div class="carousel-item"> <img src="images/Unfinishedglassgirl.JPG"
+                  class="d-block w-100" alt="work2"> </div>
+              <div class="carousel-item"> <img src="images/Dog.JPG" class="d-block w-100"
+                  alt="work3"> </div>
+              <div class="carousel-item"> <img src="images/uniwork2.JPG" class="d-block w-100"
+                  alt="work4"> </div>
+              <div class="carousel-item"> <img src="images/Bin.JPG" class="d-block w-100"
+                  alt="work5"> </div>
+              <div class="carousel-item"> <img src="images/Trash.JPG" class="d-block w-100"
+                  alt="work6"> </div>
+              <div class="carousel-item"> <img src="images/203.JPG" class="d-block w-100"
+                  alt="work7"> </div>
+              <div class="carousel-item"> <img src="images/Eng2.JPG" class="d-block w-100"
+                  alt="work8"> </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="prev"> <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Previous</span> </button> <button
+              class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators"
+              data-bs-slide="next"> <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="visually-hidden">Next</span> </button> </div>
         </div>
-        <br>
         <div class="row text-center my-bg">
-          <h4> <a name="Contacts" id="Contacts" ></a> Contacts  <br>
+          <h4> <a name="#contact" id="#contact"></a>Contact <br>
           </h4>
           <p> Rodthamai_w@silpakorn.edu <br>
             Wanach2107@gmail.com <br>
@@ -177,10 +258,8 @@
         </div>
       </div>
     </div>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
-
-integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
-
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"
+integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm"
 crossorigin="anonymous"></script>
   </body>
 </html>
